@@ -36,15 +36,13 @@ After scanning the RFID press the read button the read what the arduino read.
 
 *************************Setting up Arduinos RFID Module*************************
 
+SDA -- SCK -- MOSI -- MISO -- GND -- RST -- 3.3v
+ ^      ^       ^      ^       ^      ^      ^
+ ^      ^       ^      ^       ^      ^      ^
+ ^      ^       ^      ^       ^      ^      ^
+ ~10    13     ~11     12     GND    ~9     3.3v  
 
-**********RFID Modle**********		************Arduino************
-		SDA	----------------------	~10
-		SCK	----------------------	13
-		MOSI	----------------------	~11
-		MISO	----------------------	12
-		GND	----------------------	GND
-		RST	----------------------	~9
-		3.3V	----------------------	3.3V
+
 
 I hope you enjoy the project, I will update the project with a database and others that I know I need but forgot
 
