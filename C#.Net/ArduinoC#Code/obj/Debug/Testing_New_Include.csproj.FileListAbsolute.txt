@@ -1,0 +1,10 @@
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\bin\Debug\Testing_New_Include.exe.config
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\bin\Debug\Testing_New_Include.exe
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\bin\Debug\Testing_New_Include.pdb
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.csprojAssemblyReference.cache
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.Form1.resources
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.Properties.Resources.resources
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.csproj.GenerateResource.cache
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.csproj.CoreCompileInputs.cache
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.exe
+C:\Users\kingo\source\repos\Testing_New_Include\Testing_New_Include\obj\Debug\Testing_New_Include.pdb
